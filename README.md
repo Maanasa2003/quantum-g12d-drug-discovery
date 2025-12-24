@@ -72,7 +72,7 @@ This project draws inspiration from advances in:
 - KRAS G12D structural biology
 
 ## Author
-Manasa  
+Maanasa Panchakarla
 Dublin City University (Masters' in Artificial Intelligence) 
 Interested in Quantum AI research, drug discovery, and space exploration.
 
