@@ -1,6 +1,28 @@
-# quantum-g12d-drug-discovery
+# Quantum‑Enhanced Generative AI for Drug Discovery Targeting KRAS G12D
 
-Repository scaffold for an integrated classical/quantum drug discovery pipeline targeting G12D-mutant systems.
+## Overview
+This project explores whether quantum‑enhanced generative AI can accelerate the discovery of small‑molecule inhibitors targeting the KRAS G12D mutation in pancreatic cancer. It integrates classical generative models with quantum machine learning components to evaluate improvements in molecular design, optimization, and binding prediction.
+
+## Goals
+- Generate novel KRAS G12D inhibitor candidates.
+- Integrate quantum kernels or variational circuits into generative models.
+- Build a full docking + scoring pipeline.
+- Compare quantum vs classical performance.
+
+## Repository Structure
+- `data/` — datasets (raw, processed, external)
+- `models/` — classical, quantum, and hybrid models
+- `src/` — core code for generation, quantum modules, docking, scoring
+- `notebooks/` — exploratory analysis and experiments
+- `results/` — generated molecules, docking scores, evaluations
+- `docs/` — project documentation
+- `tests/` — unit tests
+
+
+
+
+
+
 
 Project structure
 
